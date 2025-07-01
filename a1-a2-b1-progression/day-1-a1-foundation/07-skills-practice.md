@@ -1,255 +1,354 @@
 # 📚 Hour 7: Skills Practice & Application (16:30-17:30)
 
 ## 🎯 **Hour Objectives**
-- Apply grammar and vocabulary in context
-- Practice reading simple German texts
-- Develop listening comprehension skills
-- Build confidence through integrated practice
+- Apply vocabulary and grammar in practical exercises
+- Develop reading, listening, and writing skills
+- Practice real-world German scenarios
+- Build confidence through structured practice
 
-## 📖 **Reading Practice (30 minutes)**
+## 📖 **Reading Practice (15 minutes)**
 
-### **Reading Text 1: Personal Introduction**
+### **A1 Level Text Analysis**
 
-**Text:**
+#### **Text 1: Familie Schmidt**
 ```
-Hallo! Ich heiße Anna Schmidt und ich bin 28 Jahre alt. Ich komme aus München, aber ich wohne jetzt in Berlin. Ich bin Lehrerin von Beruf und arbeite in einer Grundschule. Ich bin verheiratet und habe einen Sohn. Er heißt Max und ist 5 Jahre alt.
-
-Meine Familie ist nicht sehr groß. Mein Mann heißt Thomas und er ist Arzt. Meine Eltern wohnen noch in München. Mein Vater ist 65 Jahre alt und meine Mutter ist 62. Ich habe auch eine Schwester. Sie heißt Lisa und studiert in Hamburg.
-
-Am Morgen stehe ich um 6 Uhr auf. Ich dusche und frühstücke mit meiner Familie. Um 7:30 fahre ich zur Schule. Ich arbeite von 8 bis 14 Uhr. Am Abend koche ich gern und wir essen zusammen. Thomas und ich sprechen Deutsch und Englisch zu Hause.
-```
-
-**Comprehension Questions:**
-1. Wie heißt die Frau?
-2. Wo arbeitet Anna?
-3. Wie alt ist ihr Sohn?
-4. Was ist Thomas von Beruf?
-5. Wann steht Anna auf?
-6. Welche Sprachen sprechen sie zu Hause?
-
-**Answers:**
-1. Anna Schmidt
-2. In einer Grundschule
-3. 5 Jahre alt
-4. Arzt
-5. Um 6 Uhr
-6. Deutsch und Englisch
-
-### **Reading Text 2: Daily Routine**
-
-**Text:**
-```
-Mein Alltag beginnt früh. Ich wache um 6:30 auf und stehe sofort auf. Zuerst dusche ich und dann frühstücke ich. Ich esse meistens Brot mit Butter und Marmelade. Dazu trinke ich Kaffee.
-
-Um 8 Uhr fahre ich mit dem Bus zur Arbeit. Die Fahrt dauert 30 Minuten. Ich arbeite in einem Büro und bin dort bis 17 Uhr. Am Mittag esse ich in der Kantine. Das Essen ist okay, aber nicht sehr lecker.
-
-Nach der Arbeit gehe ich oft einkaufen. Ich kaufe Obst, Gemüse und Brot. Zu Hause koche ich das Abendessen. Ich koche gern Pasta oder Reis mit Gemüse. Am Abend sehe ich manchmal fern oder lese ein Buch. Um 22 Uhr gehe ich ins Bett.
+Hallo! Ich heiße Thomas Schmidt. Ich bin 35 Jahre alt und wohne in Berlin. 
+Ich arbeite als Lehrer in einer Schule. Meine Frau heißt Maria. Sie ist 32 Jahre alt. 
+Maria ist Ärztin und arbeitet in einem Krankenhaus. 
+Wir haben zwei Kinder: Lisa ist 8 Jahre alt und Max ist 5 Jahre alt.
+Am Wochenende gehen wir gern in den Park oder besuchen meine Eltern.
 ```
 
-**Comprehension Questions:**
-1. Wann wacht die Person auf?
-2. Was isst sie zum Frühstück?
-3. Wie lange dauert die Fahrt zur Arbeit?
-4. Wo isst sie am Mittag?
-5. Was kauft sie nach der Arbeit?
-6. Was macht sie am Abend?
+#### **Comprehension Questions:**
+1. Wie alt ist Thomas? → _____
+2. Was ist Maria von Beruf? → _____
+3. Wie viele Kinder haben Thomas und Maria? → _____
+4. Was machen sie am Wochenende? → _____
 
-### **Reading Text 3: Family Description**
-
-**Text:**
+#### **Text 2: Ein Tag in Deutschland**
 ```
-Ich möchte meine Familie vorstellen. Wir sind vier Personen: meine Eltern, mein Bruder und ich. Mein Vater heißt Klaus und ist 55 Jahre alt. Er arbeitet als Ingenieur und ist sehr fleißig. Meine Mutter heißt Sabine und ist 52. Sie ist Krankenschwester im Krankenhaus.
-
-Mein Bruder Stefan ist älter als ich. Er ist 25 und ich bin 22. Stefan studiert Medizin an der Universität. Er möchte Arzt werden wie unser Onkel. Ich studiere Deutsch und Englisch. Ich möchte Lehrerin werden.
-
-Wir wohnen in einem schönen Haus mit Garten. Am Wochenende sind wir oft zusammen. Wir kochen gemeinsam oder gehen spazieren. Meine Familie ist sehr wichtig für mich. Wir verstehen uns gut und helfen uns immer.
+Es ist 7 Uhr morgens. Ich stehe auf und dusche. 
+Dann esse ich Frühstück: Brot mit Butter und Marmelade, und ich trinke Kaffee.
+Um 8 Uhr fahre ich mit dem Bus zur Arbeit. 
+Die Arbeit beginnt um 9 Uhr und endet um 17 Uhr.
+Am Mittag esse ich in der Kantine. Das Essen ist gut und nicht teuer.
+Nach der Arbeit gehe ich einkaufen. Ich kaufe Brot, Milch und Äpfel.
+Am Abend bin ich müde und gehe früh ins Bett.
 ```
 
-**Vocabulary from Texts:**
-- **der Alltag** - daily routine
-- **meistens** - mostly  
-- **die Marmelade** - jam
-- **dauern** - to last
-- **die Kantine** - cafeteria
-- **vorstellen** - to introduce
-- **fleißig** - hardworking
-- **die Krankenschwester** - nurse
-- **älter** - older
-- **gemeinsam** - together
-- **sich verstehen** - to get along
+#### **Reading Strategy Practice:**
+- **Scan for times:** Find all time expressions in the text
+- **Identify actions:** What does the person do at each time?
+- **New vocabulary:** Circle words you don't know, guess meaning from context
 
-## 👂 **Listening Practice (20 minutes)**
+---
 
-### **Listening Exercise 1: Phone Numbers & Personal Info**
+## 🎧 **Listening Practice (20 minutes)**
 
-**Script for Audio (read aloud or have someone read):**
+### **Free Listening Resources & Structured Exercises**
 
-*"Hallo, mein Name ist Michael Weber. Ich buchstabiere: M-I-C-H-A-E-L W-E-B-E-R. Ich bin 34 Jahre alt und komme aus Köln. Meine Telefonnummer ist null-zwei-zwei-eins, vier-fünf-sechs, sieben-acht-neun-null. Ich wohne in der Hauptstraße 15 in Köln. Meine E-Mail-Adresse ist michael.weber@email.de."*
+#### **Resource 1: Deutsche Welle Deutsch Lernen**
+**Website:** dw.com/de/deutsch-lernen/s-2055
+**Free Content:** A1 audio lessons with transcripts
 
-**Questions:**
-1. Wie heißt der Mann?
-2. Wie alt ist er?
-3. Woher kommt er?
-4. Wie ist seine Telefonnummer?
-5. Wo wohnt er?
+#### **Listening Exercise Framework for DW Content:**
 
-### **Listening Exercise 2: Shopping Dialogue**
+**Step 1: Pre-Listening (2 minutes)**
+- Read the lesson title
+- Predict 3 words you might hear
+- Set listening goal: "I want to understand the main topic"
 
-**Script:**
+**Step 2: First Listen (Audio only - 3 minutes)**
+- Listen without reading
+- Focus on: Who is speaking? What's the situation?
+- Write down any words you recognize
+
+**Step 3: Active Listening (5 minutes)**
+- Listen again with transcript
+- Mark new vocabulary
+- Practice pronunciation by repeating
+
+**Step 4: Comprehension Check (3 minutes)**
+Answer these for ANY DW A1 lesson:
+1. Who are the people in the dialogue?
+2. Where does the conversation happen?
+3. What is the main topic?
+4. Which words are repeated most often?
+
+#### **Resource 2: YouTube - Deutsch für Euch**
+**Channel:** "Deutsch für Euch" by Katja
+**Free A1 Content:** Daily life conversations with subtitles
+
+#### **YouTube Listening Exercise Template:**
+
+**Choose any A1-level video from the channel**
+
+**Pre-Viewing:**
+- Read video title and predict content
+- Prepare for vocabulary: family, food, daily routine, etc.
+
+**First Viewing (No subtitles):**
+- Understand general topic
+- Count how many people speak
+- Identify emotion: happy, sad, excited?
+
+**Second Viewing (German subtitles):**
+- Read along as you listen
+- Pause at new words
+- Repeat difficult sentences
+
+**Post-Viewing Practice:**
+- Try to retell what you understood in German
+- Write 3 sentences about the video
+
+#### **Resource 3: Easy German Podcast**
+**Platform:** Spotify, Apple Podcasts, or easygerman.fm
+**Free Content:** "Super Easy German" episodes (5-10 minutes)
+
+#### **Podcast Listening Strategy:**
+
+**Choose Episode Topics Related to Day 1:**
+- Greetings and introductions
+- Family and personal information
+- Daily routines
+- Food and drinks
+
+**Listening Method:**
+1. **First listen:** General understanding only
+2. **Second listen:** Take notes on main points
+3. **Third listen:** Focus on specific details
+4. **Fourth listen:** Repeat along with speakers
+
+#### **Resource 4: German Radio (Live Practice)**
+**Station:** Deutschlandfunk Nova (deutschlandfunknova.de)
+**Free Stream:** Live German radio with simple language
+
+#### **Radio Listening Challenge (A1 Level):**
+- Listen for 5 minutes
+- Goal: Recognize 10 familiar words
+- Write down numbers (Zeit, Alter, Preise) you hear
+- Identify topics: Wetter, Sport, Musik?
+
+#### **Resource 5: Forvo Pronunciation Dictionary**
+**Website:** forvo.com
+**Free Content:** Native speaker pronunciations of German words
+
+#### **Pronunciation Listening Exercise:**
+**Use with Day 1 vocabulary:**
+
+1. Go to forvo.com
+2. Search for each Day 1 vocabulary word
+3. Listen to 2-3 different native speakers
+4. Practice repeating until you match the sound
+5. Focus on these challenging sounds:
+   - **ä, ö, ü** (German umlauts)
+   - **ch** sound (ich, auch)
+   - **r** sound (German r)
+
+### **Structured Listening Exercise Templates**
+
+#### **Template A: Dialogue Comprehension**
+**Use with any German A1 dialogue (DW, YouTube, etc.)**
+
+**Pre-Listening:**
+- Topic: _____
+- My prediction: _____
+
+**While Listening:**
+- Speaker 1 says: _____
+- Speaker 2 says: _____
+- Location: _____
+- Time of day: _____
+
+**Post-Listening:**
+- New words I learned: _____
+- Sentence I can repeat: _____
+
+#### **Template B: Information Extraction**
+**Use with German A1 news or information content**
+
+**Listen for:**
+- Numbers: _____
+- Names: _____
+- Places: _____
+- Times: _____
+
+**Main message in English:** _____
+**Three German words I understood:** _____, _____, _____
+
+#### **Template C: Daily Life Scenarios**
+**Use with practical German conversations**
+
+**Scenario:** (Restaurant, Shopping, Travel, etc.)
+**Key phrases I heard:**
+1. _____
+2. _____
+3. _____
+
+**How would I respond in this situation?**
+_____
+
+### **Self-Assessment Listening Goals**
+
+#### **Day 1 Listening Targets:**
+- [ ] Understand simple greetings and introductions
+- [ ] Recognize numbers 1-100 when spoken
+- [ ] Identify family relationship words
+- [ ] Understand basic daily routine vocabulary
+- [ ] Follow simple present tense sentences
+
+#### **Weekly Listening Schedule:**
+- **Day 1:** 20 minutes structured practice
+- **Day 2:** 15 minutes review + new content
+- **Daily goal:** Recognize 5 new spoken words
+- **Weekly goal:** Understand 1 complete simple dialogue
+
+---
+
+## ✍️ **Writing Practice (15 minutes)**
+
+### **A1 Writing Tasks**
+
+#### **Task 1: Personal Introduction (5 minutes)**
+Write a short paragraph about yourself using today's vocabulary:
 ```
-Verkäufer: Guten Tag! Kann ich Ihnen helfen?
-Kunde: Ja, guten Tag. Ich möchte Obst kaufen.
-Verkäufer: Was für Obst möchten Sie?
-Kunde: Ich nehme zwei Kilo Äpfel und ein Kilo Bananen.
-Verkäufer: Sonst noch etwas?
-Kunde: Ja, haben Sie auch Brot?
-Verkäufer: Ja, natürlich. Welches Brot möchten Sie?
-Kunde: Ein Vollkornbrot, bitte.
-Verkäufer: Das kostet zusammen 8 Euro 50.
-Kunde: Hier sind 10 Euro.
-Verkäufer: Danke. Hier ist Ihr Wechselgeld: 1 Euro 50.
+Template:
+Hallo! Ich heiße _____. 
+Ich bin _____ Jahre alt.
+Ich komme aus _____.
+Ich wohne in _____.
+Meine Familie: _____.
+Ich arbeite als _____ / Ich studiere _____.
+Am Wochenende _____.
 ```
 
-**Questions:**
-1. Was kauft der Kunde?
-2. Wie viel kosten die Äpfel und Bananen?
-3. Was für Brot kauft er?
-4. Wie viel kostet alles zusammen?
-5. Wie viel Wechselgeld bekommt er?
-
-### **Listening Exercise 3: Time and Schedule**
-
-**Script:**
-*"Ich stehe jeden Tag um sieben Uhr auf. Um halb acht frühstücke ich. Von neun bis zwölf Uhr arbeite ich. Um zwölf Uhr dreißig esse ich zu Mittag. Am Nachmittag arbeite ich von zwei bis fünf. Um sechs Uhr bin ich zu Hause. Abends koche ich und esse um sieben. Um zehn Uhr gehe ich schlafen."*
-
-**Questions:**
-1. Wann steht die Person auf?
-2. Wann frühstückt sie?
-3. Wie lange arbeitet sie am Morgen?
-4. Wann isst sie zu Mittag?
-5. Wann geht sie schlafen?
-
-## ✍️ **Writing Practice (10 minutes)**
-
-### **Writing Exercise 1: Personal Introduction**
-Write a short introduction about yourself (50-75 words):
-
-**Template:**
+#### **Task 2: Daily Routine (5 minutes)**
+Describe your typical day using present tense:
 ```
-Hallo! Ich heiße _____ und ich bin _____ Jahre alt. 
-Ich komme aus _____ und wohne in _____. 
-Ich bin _____ von Beruf. 
-Meine Familie ist _____. Ich habe _____.
-In meiner Freizeit _____ ich gern.
+Template:
+Um _____ Uhr stehe ich auf.
+Ich esse _____ zum Frühstück.
+Ich gehe um _____ Uhr zur Arbeit/Schule.
+Am Mittag _____.
+Am Abend _____.
+Ich gehe um _____ Uhr ins Bett.
 ```
 
-### **Writing Exercise 2: Daily Routine**
-Describe your typical day (75-100 words):
+#### **Task 3: Family Description (5 minutes)**
+Write about your family or a fictional family:
+```
+Template:
+Meine Familie ist _____ (groß/klein).
+Mein Vater heißt _____ und ist _____ Jahre alt.
+Meine Mutter _____.
+Ich habe _____ Geschwister.
+Wir wohnen _____.
+```
 
-**Prompts:**
-- Wann stehen Sie auf?
-- Was essen Sie zum Frühstück?
-- Wie fahren Sie zur Arbeit?
-- Was machen Sie am Abend?
-- Wann gehen Sie ins Bett?
+### **Writing Self-Correction Checklist:**
+- [ ] Correct articles (der, die, das)
+- [ ] Verb conjugation matches subject
+- [ ] Word order: Subject-Verb-Object
+- [ ] Capital letters for nouns
+- [ ] Sentence ends with period
 
-### **Writing Exercise 3: Family Description**
-Write about your family (60-80 words):
+---
 
-**Include:**
-- Family size and members
-- Ages and professions
-- Where they live
-- One interesting fact about each person
+## 🗣️ **Speaking Practice (10 minutes)**
 
-## 🎯 **Hour 7 Practice Exercises**
+### **Pronunciation Focus**
 
-### **Exercise 1: Reading Comprehension Review (5 minutes)**
-Answer these questions about all three texts:
+#### **German Sound Practice:**
+1. **Umlauts:** ä (like "eh"), ö (like "ur"), ü (like "ew")
+   - Practice: Käse, hören, über
+2. **ch Sound:** ich, auch, sprechen
+3. **German R:** Brot, arbeiten, Frau
+4. **ie vs ei:** sie vs nein, liebe vs keine
 
-1. Which person works in a school?
-2. Who has a son named Max?
-3. What does the person in Text 2 eat for breakfast?
-4. How many people are in the family in Text 3?
-5. What does Stefan want to become?
+### **Dialogue Practice**
 
-### **Exercise 2: Vocabulary in Context (5 minutes)**
-Use these words in sentences:
-1. **fleißig** - 
-2. **gemeinsam** - 
-3. **dauern** - 
-4. **vorstellen** - 
-5. **meistens** - 
+#### **Scenario 1: Meeting Someone New**
+```
+Person A: Hallo! Wie heißen Sie?
+Person B: Ich heiße _____. Und Sie?
+Person A: Ich bin _____. Woher kommen Sie?
+Person B: Ich komme aus _____. Und Sie?
+Person A: Ich bin aus _____. Schön, Sie kennenzulernen!
+```
 
-### **Exercise 3: Question Formation Practice (5 minutes)**
-Create questions for these answers:
+#### **Scenario 2: Family Introduction**
+```
+"Ich möchte meine Familie vorstellen.
+Das ist mein _____ (Vater/Mann/etc.). Er heißt _____.
+Das ist meine _____ (Mutter/Frau/etc.). Sie heißt _____.
+Ich habe _____ Kinder/Geschwister.
+Wir wohnen in _____."
+```
 
-1. _____ ? - Sie heißt Anna Schmidt.
-2. _____ ? - Er ist 28 Jahre alt.
-3. _____ ? - Ich stehe um 7 Uhr auf.
-4. _____ ? - Das kostet 8 Euro 50.
-5. _____ ? - Wir wohnen in Berlin.
+### **Self-Recording Exercise:**
+1. Record yourself introducing your family (1 minute)
+2. Listen back and identify:
+   - Clear pronunciation
+   - Correct grammar
+   - Natural rhythm
+3. Re-record with improvements
 
-### **Exercise 4: Text Reconstruction (5 minutes)**
-Put these sentences in the correct order to make a logical text:
+---
 
-a) Ich trinke Kaffee zum Frühstück.
-b) Um 22 Uhr gehe ich ins Bett.
-c) Ich stehe um 6 Uhr auf.
-d) Am Abend koche ich das Abendessen.
-e) Um 8 Uhr fahre ich zur Arbeit.
+## ✅ **Skills Practice Assessment**
 
-**Correct order:** c, a, e, d, b
+### **Reading Comprehension Check:**
+- [ ] I can understand simple texts about people and families
+- [ ] I can find specific information (names, ages, jobs)
+- [ ] I can guess new words from context
 
-## ✅ **Hour 7 Checkpoint**
+### **Listening Comprehension Check:**
+- [ ] I can understand simple greetings and introductions
+- [ ] I can identify numbers and basic information
+- [ ] I can follow the main idea of simple dialogues
+- [ ] I use free resources effectively for listening practice
 
-### **Self-Assessment (Rate 1-10):**
-- [ ] I can understand simple German texts
-- [ ] I can follow basic German conversations
-- [ ] I can write simple paragraphs in German
-- [ ] I can use grammar and vocabulary together
-- [ ] I feel confident about German comprehension
+### **Writing Skills Check:**
+- [ ] I can write simple sentences about myself
+- [ ] I can describe my daily routine
+- [ ] I can introduce my family in writing
+- [ ] I check my grammar and spelling
 
-### **Skills Assessment:**
-**Reading:** Can you understand the main ideas in simple texts? ___/10
-**Listening:** Can you follow basic conversations? ___/10  
-**Writing:** Can you write simple, correct sentences? ___/10
-**Vocabulary:** Can you use new words in context? ___/10
+### **Speaking Skills Check:**
+- [ ] I can pronounce German sounds clearly
+- [ ] I can introduce myself and others
+- [ ] I can have a simple conversation
+- [ ] I can self-correct when I make mistakes
 
-### **Quick Review Test (5 minutes):**
-1. What's Anna's profession in Text 1?
-2. How does the person in Text 2 get to work?
-3. What's the phone number in Listening Exercise 1?
-4. How much change did the customer get?
-5. Write one sentence about your morning routine.
+---
 
-## 🚀 **Success Celebration!**
+## 🚀 **Hour 7 Success Celebration!**
 
-**🎉 Excellent! You've completed integrated skills practice!**
+**🎉 Excellent! You've applied your German skills practically!**
 
 ### **What You've Accomplished:**
-✅ Read and understood authentic German texts  
-✅ Followed German conversations and dialogues  
-✅ Applied grammar rules in context  
-✅ Used vocabulary naturally in communication  
-✅ Built confidence in all four skills  
+✅ **Reading comprehension** of A1-level texts  
+✅ **Listening practice** with real German audio resources  
+✅ **Writing skills** for personal expression  
+✅ **Speaking confidence** in basic conversations  
+✅ **Self-assessment** abilities for continued improvement  
 
 ### **Confidence Booster:**
-*"I can actually understand German when I read and listen! I'm using real German, not just isolated words and grammar. This feels like genuine communication!"*
+*"I can understand simple German texts, follow basic conversations, write about myself, and speak with growing confidence. I'm building real communication skills!"*
 
 ## ➡️ **Next Hour Preview**
 
 **Hour 8: Integrated Practice**
-- Speaking practice and role-plays
-- More advanced listening exercises
-- Creative writing tasks
-- Grammar and vocabulary games
+- Combine all four skills in realistic scenarios
+- Practice extended conversations
+- Work with authentic German materials
+- Build fluency and natural expression
 
 **Preparation:**
-- Practice reading one of today's texts aloud
-- Think about questions you'd like to ask in German
-- Get ready for more interactive practice!
+- Review any challenging vocabulary from today
+- Practice the listening resources you found most helpful
+- Get ready for integrated skill challenges!
 
 ---
 
-**You're now using German for real communication! The pieces are coming together! 💪** 
+**You're developing real German communication abilities! Time for integrated practice! 💪** 
